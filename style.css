@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  header {
+    background-color: rgb(55, 189, 194);
+    padding-bottom: 100%;
+  }
+  
+  nav {
+    display: flex;
+    gap: 50px;
+    font-size: 50px;
+    font-family: "Impact", Verdana, fantasy;
+    background-color: rgb(55, 189, 194);
+    justify-content: space-between;
+  }
+  
+  div {
+    padding: 17%;
+  }
+  
+  .bottom {
+    background-color: rgb(55, 189, 194);
+    padding: 3%;
+  }
+  
+  .gilla {
+    display: flex;
+    margin-left: 66%;
+    margin-top: -22%;
+  }
