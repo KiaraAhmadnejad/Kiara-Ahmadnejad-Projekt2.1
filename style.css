@@ -5,7 +5,7 @@
   
   header {
     background-color: rgb(55, 189, 194);
-    padding-bottom: 100%;
+    padding-bottom: -1%;
   }
   
   nav {
@@ -17,17 +17,9 @@
     justify-content: space-between;
   }
   
-  div {
-    padding: 17%;
-  }
-  
   .bottom {
     background-color: rgb(55, 189, 194);
     padding: 3%;
   }
   
-  .gilla {
-    display: flex;
-    margin-left: 66%;
-    margin-top: -22%;
-  }
+  
