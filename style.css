@@ -8,18 +8,49 @@
     padding-bottom: -1%;
   }
   
-  nav {
+  .logor {
     display: flex;
     gap: 50px;
     font-size: 50px;
     font-family: "Impact", Verdana, fantasy;
-    background-color: rgb(55, 189, 194);
     justify-content: space-between;
   }
   
-  .bottom {
-    background-color: rgb(55, 189, 194);
-    padding: 3%;
+  .uDjur {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 1%;
   }
+  .uDjur a {
+    color: blue;
+  }
+
+  .uDjur a:hover {
+    background-color: white;
+    color: black;
+  }
+
+  .shop {
+    padding: 2%;
+    color: rgb(121, 174, 218);
+    text-decoration: none;
+}
+
+.vara {
+    display: flex;
+    justify-content: space-between;
+}
   
-  
+.namnpåvara{
+padding-left: 10%;
+padding-right: 10%;
+display: flex;
+justify-content: space-between;
+}
+
+.kr{
+  padding-left: 10%;
+  padding-right: 10%;
+  display: flex;
+  justify-content: space-between;
+}
