@@ -22,7 +22,9 @@
     padding-bottom: 1%;
   }
   .uDjur a {
-    color: blue;
+    color: rgb(2, 2, 2);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
   }
 
   .uDjur a:hover {
