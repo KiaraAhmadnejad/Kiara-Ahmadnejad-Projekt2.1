@@ -42,20 +42,7 @@
 .vara {
     display: flex;
     justify-content: space-between;
-}
-  
-.namnpåvara{
-padding-left: 10%;
-padding-right: 10%;
-display: flex;
-justify-content: space-between;
-}
-
-.kr{
-  padding-left: 10%;
-  padding-right: 10%;
-  display: flex;
-  justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .produkt {
