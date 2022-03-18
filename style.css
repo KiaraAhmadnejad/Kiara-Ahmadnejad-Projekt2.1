@@ -1,3 +1,5 @@
+
+
 * {
     padding: 0;
     margin: 0;
@@ -43,6 +45,7 @@
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    color: rgb(72, 154, 165);
 }
 
 .produkt {
@@ -55,7 +58,9 @@
 }
 
 .rubrik{
-  padding-bottom: 4%;
+  padding: 4%;
+  font-size: 80%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .buttom{
