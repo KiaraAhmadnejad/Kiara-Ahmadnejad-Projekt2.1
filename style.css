@@ -88,6 +88,7 @@ h1{
 
 .productcont {
   display: flex; 
+flex-wrap: wrap;
 }
 
 .product {
@@ -105,7 +106,7 @@ h1{
 }
 
 button, input[type="submit"] { 
-    border:1px solid rgb(2, 2, 2); 
+    border:1px solid rgb(255, 255, 255); 
     color:#fff; 
     background: rgb(55, 189, 194); 
     padding:0.6em 1em;
