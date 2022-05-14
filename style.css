@@ -49,6 +49,14 @@
 .produkt {
   display: flex;
   flex-wrap: wrap;
+  
+}
+
+.buttom{
+  display: flex;
+  gap: 150px;
+  justify-content: space-between;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .produktinfo{
